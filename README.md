@@ -1,6 +1,6 @@
 - Meu Nome é josé rennyer
-- Estou interessado em me tornar desenvolvedor mobile
-- Habilidades: HTML, CSS e GIT
+- Meu objetivo é me tornar desenvolvedor Front-end/mobile
+- Habilidades: HTML, CSS, JS e GIT
 - Estudando: Javascript, logo depois React Navite
 - O Aprendizado segue continuo todos os dias, E buscando minha primeira oportunidade na Aréa
-- 📫 How to reach me 
+- www.linkedin.com/in/josé-rennyer-813233231 
