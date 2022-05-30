@@ -1,7 +1,7 @@
 <br/>Meu Nome é josé rennyer<br/>
 💹 Meu objetivo é me tornar um  Grande desenvolvedor Mobile Android<br/>
-✔️ Habilidades: HTML, CSS, JS, Kotlin e GIT<br/>
-📖 Estudando: Javascript e Kotlin<br/>
+✔️ Habilidades: HTML, CSS, JS e GIT<br/>
+📖 Estudando: Javascript e java<br/>
 😀 De degrau em degrau, um dia eu chego no topo.
 
 
