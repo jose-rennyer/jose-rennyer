@@ -1,5 +1,5 @@
 <br/>Meu Nome é josé rennyer<br/>
-💹 Meu objetivo é me tornar um  Grande desenvolvedor Mobile<br/>
+💹 Meu objetivo é me tornar um  Grande desenvolvedor back end<br/>
 ✔️ Habilidades: HTML, CSS, JS e GIT<br/>
 📖 Estudando: Javascript<br/>
 😀 De degrau em degrau, um dia eu chego no topo.
